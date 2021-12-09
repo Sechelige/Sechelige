@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sechelige
 - 👀 I’m interested in app development.
 - 🌱 I’m currently learning application development at the IUT d'Orsay of Paris-Saclay University in France.
-- 📫 How to reach me : go on discord#8054.
+- 📫 How to reach me : go on discord Sechelige#8054.
