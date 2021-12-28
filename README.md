@@ -2,3 +2,4 @@
 - 👀 I’m interested in app development and web.
 - 🌱 I’m currently learning application development at the IUT d'Orsay of Paris-Saclay University in France.
 - 📫 How to reach me : go on discord Sechelige#8054.
+- sechelige.ddns.net
